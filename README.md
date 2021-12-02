@@ -14,5 +14,7 @@ Projeto de criação de uma loja virtual fictícia para a construção de págin
  - SASS
  - CSS
  - HTML
+ - Django
+ - Netify
 
 OBS: As fontes baixadas utilizadas no projeto estão disponíveis para download no repositório.
